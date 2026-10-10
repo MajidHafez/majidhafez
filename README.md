@@ -11,7 +11,7 @@ and exploring the intersection of DevOps and AI.
 **Engineering mindset. Automation first. Reliability always.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MajidHafez-181717?style=flat-square&logo=github)](https://github.com/MajidHafez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/majid-hafez-33b67aab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/majid-hafez/)
 [![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=flat-square&logo=gmail&logoColor=white)](mailto:majid.hafezghoran27@gmail.com)
 
 </div>
