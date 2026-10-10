@@ -196,7 +196,7 @@ Interested in DevOps engineering, infrastructure automation, cloud-native techno
 Let's connect.
 
 - **GitHub:** [@MajidHafez](https://github.com/MajidHafez)
-- **LinkedIn:** [Majid Hafezghoran](https://www.linkedin.com/in/majid-hafez-33b67aab/)
+- **LinkedIn:** [Majid Hafezghoran](https://www.linkedin.com/in/majid-hafez/)
 - **Email:** [majid.hafezghoran27@gmail.com](mailto:majid.hafezghoran27@gmail.com)
 
 <div align="center">
